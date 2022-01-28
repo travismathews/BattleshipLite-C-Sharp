@@ -1,0 +1,11 @@
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe.config
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.pdb
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.AssemblyReference.cache
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.SuggestedBindingRedirects.cache
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CoreCompileInputs.cache
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.exe
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.pdb
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.dll
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.pdb
+C:\Users\xenoa\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CopyComplete
